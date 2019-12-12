@@ -14,4 +14,4 @@ CREATE TABLE IF NOT EXISTS `users` (
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=74 ;
 ```
 
-Criar uma pasta /upload/ para arquivamento das fotos.
+Create a folder / upload / for archiving photos.
